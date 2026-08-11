@@ -1,11 +1,5 @@
 # PAKISTAN-ODI-CRICKET-STATISTICS-2019-2023
-Absolutely. This dataset is suitable for a **portfolio-level Data Science project**, but there is one important limitation: the uploaded file is the **Kaggle metadata file**, not the actual CSV data. The metadata confirms that the underlying dataset contains **43 ODI match records** and the main fields are `Team 1`, `Team 2`, `Format`, `Date`, `Venue`, `Result`, and `Status`. 
 
-So I can build the project structure and complete Python code around the actual dataset schema, but I don't want to invent match records or fake model results.
-
-## 📊 Portfolio Project
-
-### **Pakistan ODI Cricket Performance Analysis & Match Outcome Prediction**
 
 **Goal:** Analyze Pakistan's ODI performance from 2019–2023 and build a machine-learning pipeline to predict match outcomes based on available match information.
 
@@ -1354,4 +1348,3 @@ Streamlit Dashboard
 
 The dataset's own description specifically identifies **data analytics, data visualization and AI/data-science applications**, and states that it can be used for analyzing trends and predicting outcomes. 
 
-**If you upload the actual `ODI statistics in Pakistan 2019-23.csv` file (rather than only the metadata JSON), I can take this one step further and build the complete runnable project from the real 43 records—including the actual EDA charts, actual model scores, feature analysis, prediction results, and a polished Jupyter Notebook ready for your GitHub portfolio.**
